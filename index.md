@@ -9,3 +9,6 @@
   helloFunc();
 ```
 
+- [x] Turn on Github Pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
